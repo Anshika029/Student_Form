@@ -8,7 +8,7 @@ Initially an empty form will be displayed on the screen.User will enter the data
 3. It helps in faster coding as with the help of this we can use the inbuild function by saving the time for writing multiple lines of code.
 
 ## Release History
-1. createGET_BY_KEYRequest
+1. createGET_BY_KEYRequest: Used to create a get request using a particular key.
 2. executeCommandAtGivenBaseUrl: This function is used to execute a Http request to the url provided. Here the url and JsonString are provided as the parameters.
 3. createPUTRequest: This function is used to create a put request.
-4. createUPDATERecordRequest: 
+4. createUPDATERecordRequest: Used to update the existing record.
