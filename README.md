@@ -9,6 +9,6 @@ Initially an empty form will be displayed on the screen.User will enter the data
 
 ## Release History
 1. createGET_BY_KEYRequest
-2. executeCommandAtGivenBaseUrl
-3. createPUTRequest
-4. createUPDATERecordRequest
+2. executeCommandAtGivenBaseUrl: This function is used to execute a Http request to the url provided. Here the url and JsonString are provided as the parameters.
+3. createPUTRequest: This function is used to create a put request.
+4. createUPDATERecordRequest: 
